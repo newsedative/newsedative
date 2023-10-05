@@ -6,9 +6,9 @@ Dasha Mashinova, ChuvSU student
 </div>
 
 ## About Me
-- Beginer Web Developer <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="30"> Beginer Web Developer
 - <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="30"> Junior Python developer
-- Possibly a metaverse developer <img src="https://media.giphy.com/media/VpX4sO5mV7vBWsLyc4/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/5rqPkvN9pveHOuT3bx/giphy-downsized-large.gif" width="30"> Possibly a metaverse developer 
 
 ## Languages and Tools
 
