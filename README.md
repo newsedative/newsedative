@@ -1,9 +1,9 @@
 ### Hello, World 👋
 Dasha, ChuvSU student
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ## About Me
 - <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="30"> Beginer Web Developer
