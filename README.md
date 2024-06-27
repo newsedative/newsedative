@@ -21,6 +21,6 @@
 
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsedative&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://media.giphy.com/media/w2JmkbOHFoq8U/giphy.gif" width=300 height=150 />|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsedative&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 |:---:|:---:|
 ```
